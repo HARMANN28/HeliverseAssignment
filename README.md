@@ -10,7 +10,8 @@ the mismatch of color after the water effect was the second issue i was struggli
 
 i mainly tried to fix the background issue from mdn docs but couldnt understand,
 if possible can you give some more days i will try to polish it as much as possible and complete the rest of it as well
-Please do not consider incomplete website as straight up no,
+The code i am providing i have removed all the media queries and keyframes as it also in progress
+Please do not consider incomplete website as straight up no, as due to travelling and wasting a lot of time some steps i mismanaged my time 
 
 Hoping for your Feedback,
 Harmann Singh Bhomrah
