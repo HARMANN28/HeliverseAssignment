@@ -11,6 +11,6 @@ the mismatch of color after the water effect was the second issue i was struggli
 if possible can you give some more days i will try to polish it as much as possible and complete the rest of it as well
 Please do not consider incomplete website as straight up no,
 
-Hoping for your Feedback 
+Hoping for your Feedback,
 Harmann Singh Bhomrah
 
